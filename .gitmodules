@@ -1,0 +1,3 @@
+[submodule "precision-optical-alignment-system"]
+	path = precision-optical-alignment-system
+	url = https://github.com/rishihg/precision-optical-alignment-system.git
