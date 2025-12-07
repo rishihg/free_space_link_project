@@ -1,3 +1,6 @@
 [submodule "precision-optical-alignment-system"]
 	path = precision-optical-alignment-system
 	url = https://github.com/rishihg/precision-optical-alignment-system.git
+[submodule "FSL_atomic_interface_experiments"]
+	path = FSL_atomic_interface_experiments
+	url = https://github.com/rishihg/FSL_atomic_interface_experiments.git
